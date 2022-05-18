@@ -51,7 +51,7 @@ class Preview extends Component {
             <input
               type="text"
               className="main_name"
-              name="Department"
+              name="Department:"
               id="Department"
               required
               value={this.state.Department}

@@ -22,22 +22,22 @@ body{
     font-weight: 700;
 }
 .main1{
-    padding-right: 60px;
+    padding-right: 90px;
 }
 .main3{
-    padding-right: 60px;
+    padding-right: 90px;
 }
 .main_name{
-    width: 50%;
-    padding: 8px;
-    margin: 5px;
+    width: 20%;
+    padding: 3px;
+    margin: 10px;
     border: 2px solid black;
     border-radius: 20px;
     background-color: rgba(7, 247, 7, 0.374);
 }
 .submit1{
-    width:150px;
-    height: 60px;
+    width:100px;
+    height: 50px;
     padding: 8px;
     margin: 5px;
     border-radius: 25px;
